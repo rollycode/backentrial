@@ -1,0 +1,19 @@
+{
+  "name": "rollsbackend",
+  "version": "1.0.0",
+  "description": "baic deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "rolls"
+  ],
+  "author": "rolly mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
